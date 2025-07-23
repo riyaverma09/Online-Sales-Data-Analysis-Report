@@ -47,7 +47,7 @@ Implemented a wide range of visual types:
 
 6. Screenshots / Demos
 Dashboard Looks Like : 
-Example: ()
+Example: ![Dashboard](https://github.com/riyaverma09/Online-Sales-Data-Analysis-Report/blob/main/Screenshot%202025-07-23%20144128.png)
 
 
 
